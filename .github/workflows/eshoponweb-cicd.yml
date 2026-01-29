@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: a9532faa-c83e-45fe-9245-1d750da8eb9b
-  WEBAPP-NAME: eshoponweb-webapp-Doja
+  WEBAPP-NAME: eshoponweb-Doja
 
 jobs:
   #Build, test and publish .net web project in repository
